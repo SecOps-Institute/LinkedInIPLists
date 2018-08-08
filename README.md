@@ -1,4 +1,4 @@
-# ![alt text](https://media.licdn.com/mpr/mpr/AAIA_wDGAAAAAQAAAAAAAA3bAAAAJGM4ZDNhZGFiLTEyOGYtNDM5Mi1hMTIzLWVkNzEwZWZiYjJjNQ.png) 
+# ![alt text](/Logo-2C-128px-TM.png) 
 # LinkedInIPLists
 ## Daily Checked and Updated if LinkedIn modifies their list
 
